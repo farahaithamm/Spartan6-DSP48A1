@@ -60,8 +60,8 @@ The full design documentation `DSP48A1_Report.pdf` includes:
 
 ## Getting Started
 
-To work with this project, you’ll need a **Verilog simulator** that supports the Spartan-6 FPGA architecture.  
-**QuestaSim** is recommended for best results.
+To work with this project, you’ll need a **Verilog simulator**. 
+**QuestaSim** is recommended.
 
 ### 1. Quick Simulation (Recommended)
 
