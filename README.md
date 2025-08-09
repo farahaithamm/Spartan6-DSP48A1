@@ -1,4 +1,4 @@
-# Spartan6 - DSP48A1 — Digital Design Project
+# Spartan6 - DSP48A1
 
 > **By:** Farah Haitham Saddik
 
