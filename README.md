@@ -31,13 +31,13 @@ Design, implement, and verify a DSP-like pipeline using Verilog HDL and the Xili
 ## Project Structure
 
 ```
-├── constraints/     # Clock and pin constraint files (.xdc)
+├── constraints/     # Clock and pin constraint file (.xdc)
 ├── src/             # Verilog source files
 ├── tb/              # Testbench files
 ├── Document.pdf     # Detailed project report
 ```
 
-## Tools & Technologies
+## Tools
 
 - **QuestaSim** — Simulation
 - **QuestaLint** — Static analysis
