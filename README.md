@@ -47,7 +47,15 @@ Design, implement, and verify a DSP-like pipeline using Verilog HDL and the Xili
 
 ## Documentation
 
-The complete project documentation — covering RTL design, testbench, simulation outputs, RTL, synthesis and device schematic, timing analysis and resource utilization — is detailed in `DSP48A1_Report.pdf`.
+The full design documentation `DSP48A1_Report.pdf` includes: 
+- RTL Design
+- Testbench description
+- Simulation results
+- RTL Schematic
+- Synthesis report
+- Implementation report
+- Timing analysis
+- Device utilization
 
 ## Design Files
 
