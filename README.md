@@ -45,12 +45,14 @@ Design, implement, and verify a DSP-like pipeline using Verilog HDL and the Xili
 
 ## Documentation
 
-The full design details, verification steps, simulation outputs, and results are documented in `DSP48A1_Report.pdf`.
+The complete project documentation — covering RTL design, testbench, simulation outputs, RTL, synthesis and device schematic, timing analysis and resource utilization — is detailed in `DSP48A1_Report.pdf`.
 
 ## Design Files
 
 - `DSP48A1.v`: Top-level Verilog module for DSP48A1 slice implementation.
 - `ff_mux.v`: Verilog implementation of the flip-flop and the MUX in the block diagram.
+- `DSP48A1_tb.v`: Verilog testbench for simulation and verification.
+- `run_dsp.do`: Script for automating the simulation process.
 
 ## Getting Started
 
