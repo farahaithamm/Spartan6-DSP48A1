@@ -22,14 +22,6 @@ The DSP48A1 is a dedicated arithmetic block capable of handling fast multiplicat
 - Modular design with reusable submodules.
 - Testbench included for functional verification.
 
-## Objective
-
-Design, implement, and verify a DSP-like pipeline using Verilog HDL and the Xilinx DSP48A1 primitive, covering:
-- Multiple DSP datapaths
-- Configurable pipelining
-- Functional and timing verification
-- Waveform and schematic analysis
-
 ## Project Structure
 
 ```
