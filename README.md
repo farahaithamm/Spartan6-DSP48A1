@@ -2,8 +2,10 @@
 
 > **By:** Farah Haitham Saddik
 
-This project implements a **DSP48A1 slice** for Xilinx Spartan-6 FPGAs, optimized for high-performance digital signal processing tasks such as multiply-accumulate (MAC) operations, filtering, and FFTs.  
+This project implements a **DSP48A1 slice** for Xilinx Spartan-6 FPGAs using Verilog HDL, optimized for high-performance digital signal processing tasks such as multiply-accumulate (MAC) operations, filtering, and FFTs.  
 The DSP48A1 is a dedicated arithmetic block capable of handling fast multiplication, addition, accumulation, and other DSP-related operations.
+
+
 
 ## Features
 
