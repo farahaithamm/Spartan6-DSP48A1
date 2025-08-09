@@ -33,10 +33,10 @@ Design, implement, and verify a DSP-like pipeline using Verilog HDL and the Xili
 ## Project Structure
 
 ```
-├── constraints/     # Clock and pin constraint file (.xdc)
-├── src/             # Verilog source files
-├── tb/              # Testbench files
-├── Document.pdf     # Detailed project report
+├── constraints/           # Clock and pin constraint file (.xdc)
+├── src/                   # Verilog source files
+├── tb/                    # Testbench files
+├── DSP48A1_Report.pdf     # Detailed project report
 ```
 
 ## Tools
