@@ -40,7 +40,7 @@ Design, implement, and verify a DSP-like pipeline using Verilog HDL and the Xili
 ## Tools
 
 - **QuestaSim** — Simulation
-- **QuestaLint** — Static analysis
+- **QuestaLint** — Linting
 - **Xilinx Vivado** — Synthesis, Implementation, Bitstream generation
 
 ## Documentation
