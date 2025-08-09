@@ -48,6 +48,7 @@ The full design documentation `DSP48A1_Report.pdf` includes:
 - Implementation report
 - Timing analysis
 - Device utilization
+- Linting with 0 errors and warnings
 
 ## Design Files
 
