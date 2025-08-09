@@ -43,6 +43,8 @@ The full design documentation `DSP48A1_Report.pdf` includes:
 - RTL Design
 - Testbench description
 - Simulation results
+- DO file
+- Constraint file
 - RTL Schematic
 - Synthesis report
 - Implementation report
